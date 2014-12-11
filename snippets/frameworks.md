@@ -1,0 +1,2 @@
+Modern PHP development encourages the use of a [development framework](http://codegeekz.com/best-php-frameworks-for-developers/) like [Laravel](http://laravel.com/)  that gives you a solid foundation for building your application. Find one that suits your style and needs and follow the examples and documentation. Most have a large library of community code you can add in with little effort, avoiding the need to reinvent the wheel.
+

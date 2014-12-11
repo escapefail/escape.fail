@@ -1,0 +1,3 @@
+[password hashing](http://www.phptherightway.com/#password_hashing)
+
+**WARNING**: Writing your own access control layer is not easy and there are many opportunities to get it severely wrong. In this short example you have a number of dangerous [SQL injection vulnerabilities](http://bobby-tables.com/) coming from a reckless lack of [proper escaping](http://bobby-tables.com/php). Please, do not write your own authentication system when any modern [development framework](http://codegeekz.com/best-php-frameworks-for-developers/) like [Laravel](http://laravel.com/) comes with a robust [authentication system](http://laravel.com/docs/security) built-in.

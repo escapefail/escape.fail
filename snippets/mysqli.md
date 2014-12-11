@@ -1,0 +1,1 @@
+**WARNING**: When using `mysqli` you should be using parameterized queries and [`bind_param`](http://php.net/manual/en/mysqli-stmt.bind-param.php) to add user data to your query. **DO NOT** use string interpolation to accomplish this because you will create severe [SQL injection bugs](http://bobby-tables.com/).
